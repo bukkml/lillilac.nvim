@@ -28,7 +28,7 @@ local colors = {
   WildMenu = { bg = Color10, fg = Color9 },
   Pmenu = { bg = Color10, fg = Color9 },
   PmenuSel = { fg = Color9 },
-  PmenuThumb = { bg = Color10, fg = Color9 },
+  PmenuThumb = { bg = Color10, fg = Color0 },
   Normal = { bg = Color10, fg = Color9 },
   Visual = { bg = "#3a2447" },
   CursorLine = { bg = "#200f24" },
