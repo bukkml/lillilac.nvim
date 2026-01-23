@@ -6,11 +6,11 @@ A lilac inspired neovim theme
 
 ## Installation
 
-For Lazy add the following to your plugins.lua file or return it in its own file. 
+For Lazy add the following to your plugins.lua file or return it in its own file.
 
 ```lua
 return {
-  "love-pengy/lillilac.nvim",
+  "bukkml/lillilac.nvim",
   config = function()
     vim.cmd.colorscheme("lillilac")
   end,
