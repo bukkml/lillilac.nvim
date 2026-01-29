@@ -29,7 +29,7 @@ local colors = {
   Pmenu = { bg = Color10, fg = Color9 },
   PmenuSel = { fg = Color9 },
   PmenuThumb = { bg = Color10, fg = Color9 },
-  Normal = { bg = Color10, fg = Color9 },
+  Normal = { bg = "None", fg = Color9 },
   Visual = { bg = "#3a2447" },
   CursorLine = { bg = "#200f24" },
   ColorColumn = { fg = Color11 },
